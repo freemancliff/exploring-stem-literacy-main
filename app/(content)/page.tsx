@@ -18,7 +18,7 @@ import ScrollyImage from "@/components/ScrollyImage";
 export default function Example() {
   return (
     <div className="bg-white">
-      {/* Hero section g */}
+      {/* Hero sectio*/}
       <div
         id="hero"
         className="relative isolate select-none overflow-hidden h-[850px] sm:h-auto bg-slate-900 pb-16 pt-14 sm:pb-20"
